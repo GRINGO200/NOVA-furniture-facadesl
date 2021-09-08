@@ -1,0 +1,20 @@
+main{
+    background: #000;
+    height: 100vh;
+}
+.pages__container{
+        padding: 50px 0 50px 0;
+        margin: 0 auto;
+    }
+.pages__wrapper{
+        padding: 60px 25px 60px 25px;
+        margin: 0 auto;
+        background: #eeeeee;
+    }
+.pages__img-box{
+    text-align: center;
+    }
+.pages__img{
+        height: 450px;
+        align-items: center;
+    }
